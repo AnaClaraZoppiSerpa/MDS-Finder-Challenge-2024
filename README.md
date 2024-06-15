@@ -10,6 +10,5 @@
 ## Best results so far, to the best of my knowledge
 
 # Instructions
-## Python Dependencies
-## Using my functions
+## Existing Code & Dependencies
 ## Sharing your results
