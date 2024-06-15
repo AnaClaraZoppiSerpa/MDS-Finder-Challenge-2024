@@ -10,5 +10,5 @@
 ## Best results so far, to the best of my knowledge
 
 # Instructions
-## Existing Code & Dependencies
+## Existing code & dependencies
 ## Sharing your results
