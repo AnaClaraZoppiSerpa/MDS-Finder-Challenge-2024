@@ -4,8 +4,8 @@ COMING SOON
 
 # Previous works
 
-- my thesis
-- gi's and finger's work
+- https://github.com/AnaClaraZoppiSerpa/diffusion-studies-supporting-codes
+- https://github.com/AnaClaraZoppiSerpa/GAMDS
 
 # The challenge
 
