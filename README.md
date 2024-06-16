@@ -1,5 +1,3 @@
-COMING SOON
-
 # Intro & goal of this repo
 
 # Previous works
@@ -25,7 +23,9 @@ Last update: June 15, 2024
 For brevity, the matrices are not shown in this README, but you can find them in the PDFs present at the owners' repos. The current table is intended to serve as reference for your challenge. Try to find matrices with lower cost! ;)
 
 # Instructions
+
 ## Existing code & dependencies
+
 ## Sharing your results
 
 # Reading Recommendations
