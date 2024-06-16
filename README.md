@@ -1,3 +1,34 @@
+# To-dos
+- [ ] copy starter challenge code from GAMDS repo
+
+- [ ] come up with quick explanation for the challenge that abstracts crypto concepts, maybe a diagram?
+
+- [ ] copy setup instructions
+
+- [ ] evaluate if I want my previous slides to be here as well (the intro I gave to Gi and Finger)
+
+- [ ] evaluate if I want my thesis slides to be here as well
+
+- [ ] maybe add their youtube video
+
+- [ ] come up with a way of having people share their results, maybe a .md file on a branch from this repo, or a dedicated folder?
+
+- [ ] add disclaimer about informal competition not peer-reviewed blablabla
+
+- [ ] pinpoint most relevant chapters of my thesis on the Reading Recommendation section
+
+- [ ] say you can try any algorithm you want, not strictly GA, as it's a combinatorial challenge
+
+- [ ] introduce myself and explain why I'm hosting the repo and the competition
+
+- [ ] talk to professor to have him share this with his next students
+
+- [ ] send to my advisors so that they know of it
+
+- [ ] send to other contacts in the cryptography community
+
+- [ ] ask about other crypto forums I could advertise this at
+
 # Intro & goal of this repo
 
 # Previous works
